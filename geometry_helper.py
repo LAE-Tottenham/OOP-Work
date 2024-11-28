@@ -4,8 +4,6 @@ class Measurements():
     def __init__(self, length, height):
         self.length = length
         self.height = height
-        
-
 
 class Square(Measurements):
          def __init__(self, length, height):
